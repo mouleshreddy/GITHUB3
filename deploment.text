@@ -1,3 +1,8 @@
+
+GITHUB MAVEN CONCEPTS
+
+
+
 A GitHub feature branch is a separate line of development used to isolate work on a new feature, bug fix, or experiment from the main codebase (usually the main branch).
 The primary goal is to keep the main branch stable and functional while allowing developers to work on new code in isolation. 
 Key Concepts
