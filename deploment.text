@@ -1,0 +1,8 @@
+A GitHub feature branch is a separate line of development used to isolate work on a new feature, bug fix, or experiment from the main codebase (usually the main branch).
+The primary goal is to keep the main branch stable and functional while allowing developers to work on new code in isolation. 
+Key Concepts
+Isolation: Changes made in a feature branch do not affect other branches until they are merged in, preventing buggy or incomplete code from breaking the main project.
+Collaboration: Feature branches facilitate collaboration through pull requests. 
+A pull request is a mechanism to notify team members that a feature is complete and ready for code review and discussion before it is merged into the main branch.
+Flexibility: Git makes branching incredibly lightweight, encouraging developers to create branches for even small changes.
+Workflow: The use of feature branches is a core component of popular branching strategies like GitHub Flow and Gitflow. 
