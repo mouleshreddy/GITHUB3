@@ -1,0 +1,17 @@
+
+CHANGE DEVOP TOOLS and deployement
+
+
+
+DevOps is a cultural and technical methodology merging software development (Dev) and IT operations (Ops) to shorten the systems development lifecycle, 
+focusing on automation, collaboration, and continuous improvement. It enables organizations to deliver applications and services at high velocity using tools
+like Jenkins, Docker, and Kubernetes to enhance quality and reliability. 
+DevOps is a cultural and technical methodology merging software development (Dev) and IT operations (Ops) to shorten the systems development lifecycle, 
+focusing on automation, collaboration, and continuous improvement. It enables organizations to deliver applications and services at high velocity using tools
+like Jenkins, Docker, and Kubernetes to enhance quality and reliability. 
+DevOps is a cultural and technical methodology merging software development (Dev) and IT operations (Ops) to shorten the systems development lifecycle, 
+focusing on automation, collaboration, and continuous improvement. It enables organizations to deliver applications and services at high velocity using tools
+like Jenkins, Docker, and Kubernetes to enhance quality and reliability. 
+DevOps is a cultural and technical methodology merging software development (Dev) and IT operations (Ops) to shorten the systems development lifecycle, 
+focusing on automation, collaboration, and continuous improvement. It enables organizations to deliver applications and services at high velocity using tools
+like Jenkins, Docker, and Kubernetes to enhance quality and reliability. 
